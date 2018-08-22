@@ -1,4 +1,4 @@
-This is the source of a presentation which I will give to the [MIT Club of New Hampsire](www.mitnh.org)
+This is the source of a presentation which I will give to the [MIT Club of New Hampsire](www.mitnh.org).
 The end product will be a pdf to be used as slides.  To "build" the pdf run:
 
 pdflatex slides.tex
