@@ -3,7 +3,7 @@ The end product will be a pdf to be used as slides.  To "build" the pdf run:
 
 pdflatex slides.tex
 
-The sty file is not my creation  [The source is found here](https://github.com/jtriley/mit-beamer).  It was created to be a MIT themed template.  
+The sty file is not my creation, [Source](https://github.com/jtriley/mit-beamer).  It was created to be a MIT themed template.  
 
 
 Licence:
